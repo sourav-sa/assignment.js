@@ -2,7 +2,7 @@
 //functio of converting kilometer to meter
 function kilometerToMeter(n){
     if(n<0){
-        
+        console.log("your given data is not correct!!")
     }
     meter=n*1000;
     return meter;
