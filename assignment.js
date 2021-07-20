@@ -58,4 +58,4 @@ function megaFriend(frndsarray){
 return  frndsarray[maxindex];
 
 }
-console.log(megaFriend(frndsarray));
+
